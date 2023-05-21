@@ -1,0 +1,21 @@
+.breadcrumbs {
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+}
+
+.breadcrumbs>span:first-child>.breadcrumbs__item {
+    padding-left: 0px;
+}
+.breadcrumbs__item {
+    color: #9AA8BA;
+    padding-left: 10px;
+}
+.breadcrumbs__item-last {
+    color: #C4D2E3;
+}
+
+.breadcrumbs__item-link::after{
+    content:"/";
+    padding-left: 10px;
+}

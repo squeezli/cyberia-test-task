@@ -1,0 +1,8 @@
+.active {
+    background-color: blueviolet;
+}
+
+.filter__categories {
+    justify-content: space-around;
+    display: flex;
+}

@@ -1,0 +1,21 @@
+.page404__wrapper {
+    width: 100%;
+}
+
+.page404__title {
+    color: #2D76F9;
+    font-size: 324px;
+}
+
+.page404__text {
+    margin: 23px;
+    font-size: 40px;
+    margin-bottom: 107px;
+
+}
+
+.page404__button {
+    padding: 20px 40px;
+    border-radius: 35px;
+    background-color: #2D76F9;
+}
